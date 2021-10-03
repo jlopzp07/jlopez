@@ -108,7 +108,7 @@ input, select, textarea {
 		}
 
 		.image img {
-			border-radius: 20%;
+			border-radius: 20px;
 		}
 
 	}
