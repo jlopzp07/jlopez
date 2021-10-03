@@ -102,6 +102,11 @@ input, select, textarea {
 			min-width: 320px;
 		}
 
+		.juan-pic {
+			width: 350px;
+			height: 100%;
+		}
+
 	}
 
 	html {
