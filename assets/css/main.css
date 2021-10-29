@@ -2654,6 +2654,7 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
+				height: 25rem;
 			}
 
 		.image.main {
